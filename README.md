@@ -1,5 +1,5 @@
 # 💫 About Me:
-2nd Year CS Student in STI College Caloocan<br>for to love is to remember;<br><br>🐍<br>Will of D 🏴‍☠️
+2nd Year CS Student at STI College Caloocan<br>for to love is to remember;<br><br>🐍<br>Will of D 🏴‍☠️
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=aurickwilliam&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aurickwilliam&theme=catppuccin_latte&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aurickwilliam&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aurickwilliam&theme=catppuccin_latte&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aurickwilliam&icon=7&color=3)](https://visitcount.itsvg.in)
